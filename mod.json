@@ -1,0 +1,8 @@
+{
+	"name": "hellenic-expansion",
+	"version": "0.0.01",
+	"label": "Hellenic Expanision",
+	"url": "https://github.com/Laurelia/hellenic-expansion",
+	"description": "An Expansion Mod for 0 A.D's Hellenic and Hellenistic civs.",
+	"dependencies": ["0ad=0.0.23"]
+}
